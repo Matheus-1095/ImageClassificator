@@ -3,7 +3,7 @@
 """
 Created on Thu Jun 11 13:02:50 2020
 
-@author: guerreiro
+@author: Matheus Guerreiro
 """
 from tkinter import *
 from tkinter.filedialog import askopenfilename
